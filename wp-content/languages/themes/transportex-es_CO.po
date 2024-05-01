@@ -1,0 +1,401 @@
+# Translation of Themes - Transportex in Spanish (Colombia)
+# This file is distributed under the same license as the Themes - Transportex package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-12 16:08:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: es_CO\n"
+"Project-Id-Version: Themes - Transportex\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Transportex is a transport, logistics & home movers WordPress theme with focus on create online transport logistics, truck, trucking, shipment, fleet, flat mover, moving company, shipping, warehouse, delivery, freight services, corporate, showcase,Air Freight, Sea Freight, Road Freight, Logistics Works, tracking, carrier, transport logistics, delivery, Routes, Warehousing, overland network, responsive creative portfolio, package, storage, multipurpose business, Transportex offers grid pattern, three different tile / grid blog layouts, page transitions and distinctive typography. It also includes easy to use and fast page builder siteorigin. Cargo adapts to every device, from smartphones and tablets to desktops. It comes with free updates and free support by our highly acclaimed team. demo at https://themeansar.com/themes/transportex-pro/"
+msgstr "Transportex es un tema para WordPress de transporte, logística y mudanzas, que se centra en crear online logística de transporte, camiones, envíos, flotas, empresas de mudanzas, almacenes, entregas, servicios de carga, grandes empresas, escaparate, flete aéreo, flete marítimo, flete terrestre, trabajos de logística, seguimiento, transportistas, rutas, almacenamiento, porfolio creativo adaptable, paquetería, negocios polivalentes. Transportex ofrece un patrón de cuadrícula, tres diferentes diseños de blog de mosaico / cuadrícula, transiciones de página y tipografía distintiva. También incluye un edito de páginas fácil de usar y rápido. Transportex se adapta a cada dispositivo, desde teléfonos inteligentes y tabletas hasta ordenadores de escritorio. Viene con actualizaciones gratuitas y soporte gratuito de nuestro equipo altamente aclamado. Demostración en https://themeansar.com/themes/transportex-pro/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Transportex"
+msgstr "Transportex"
+
+#: inc/icy/widget/transportex-service.php:98
+msgid "Enter  Font Awesome icon class ( like: fa-cloud )"
+msgstr "Introduce clase de icono de Font Awesome ( como: fa-cloud )"
+
+#: search.php:43
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tu criterio de búsqueda. Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: search.php:41
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: functions.php:195
+msgid "Service Widget Area"
+msgstr "Área de widgets de servicio"
+
+#: functions.php:187
+msgid "Slider Widget Area"
+msgstr "Área de widgets del carrusel"
+
+#: 404.php:30
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Lo sentimos, pero la página que estás buscando no existe."
+
+#: inc/icy/customize/transportex_customize_copyright.php:115
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/icy/customize/transportex_customize_copyright.php:87
+msgid "Google-plus"
+msgstr "Google-plus"
+
+#: inc/icy/customize/transportex_customize_copyright.php:65
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/icy/customize/transportex_customize_copyright.php:44
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/icy/customize/transportex_customize_copyright.php:23
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/icy/customize/transportex_customize_copyright.php:12
+msgid "Social Media"
+msgstr "Redes sociales"
+
+#: inc/icy/customize/transportex_customize_copyright.php:7
+msgid "Footer Section"
+msgstr "Sección de pie de página"
+
+#: inc/icy/customize/transportex_customize_copyright.php:34
+#: inc/icy/customize/transportex_customize_copyright.php:55
+#: inc/icy/customize/transportex_customize_copyright.php:77
+#: inc/icy/customize/transportex_customize_copyright.php:99
+#: inc/icy/customize/transportex_customize_header.php:218
+#: inc/icy/widget/transportex-callout.php:137
+#: inc/icy/widget/transportex-callout.php:165
+#: inc/icy/widget/transportex-calltoaction.php:137
+#: inc/icy/widget/transportex-calltoaction.php:165
+#: inc/icy/widget/transportex-service.php:159
+#: inc/icy/widget/transportex-slider.php:156
+msgid "Open link in a new tab"
+msgstr "Abrir enlace en una nueva pestaña"
+
+#: inc/icy/customize/transportex_customize_header.php:192
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:297
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:444
+#: inc/icy/widget/transportex-callout.php:116
+#: inc/icy/widget/transportex-callout.php:144
+#: inc/icy/widget/transportex-calltoaction.php:116
+#: inc/icy/widget/transportex-calltoaction.php:144
+#: inc/icy/widget/transportex-service.php:138
+#: inc/icy/widget/transportex-slider.php:140
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/icy/customize/transportex_customize_header.php:77
+#: inc/icy/customize/transportex_customize_header.php:124
+#: inc/icy/customize/transportex_customize_header.php:171
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:288
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:436
+#: inc/icy/widget/transportex-callout.php:102
+#: inc/icy/widget/transportex-calltoaction.php:102
+#: inc/icy/widget/transportex-service.php:110
+#: inc/icy/widget/transportex-slider.php:116
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/icy/customize/transportex_customize_header.php:64
+#: inc/icy/customize/transportex_customize_header.php:111
+#: inc/icy/customize/transportex_customize_header.php:158
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:271
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:413
+#: inc/icy/widget/transportex-callout.php:91
+#: inc/icy/widget/transportex-calltoaction.php:91
+#: inc/icy/widget/transportex-service.php:103
+#: inc/icy/widget/transportex-slider.php:109
+msgid "Title"
+msgstr "Título"
+
+#: inc/icy/customize/transportex_customize_header.php:51
+#: inc/icy/customize/transportex_customize_header.php:98
+#: inc/icy/customize/transportex_customize_header.php:145
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:542
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:606
+msgid "Icon"
+msgstr "Icono"
+
+#: functions.php:167
+msgid "Sidebar Widget Area"
+msgstr "Área de widget de la barra lateral"
+
+#. Author URI of the theme
+#. translators: placeholder replaced with string
+#: footer.php:48
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#: inc/icy/transportex-admin-plugin-install.php:33
+msgid "Get started with Transportex"
+msgstr "Primeros pasos con Transportex"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Página de ancho completo"
+
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:568
+#: inc/icy/widget/transportex-service.php:122
+#: inc/icy/widget/transportex-service.php:129
+#: inc/icy/widget/transportex-slider.php:128
+#: inc/icy/widget/transportex-slider.php:135
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:565
+#: inc/icy/customizer-repeater/class/customizer-repeater-control.php:607
+#: inc/icy/widget/transportex-service.php:116
+#: inc/icy/widget/transportex-slider.php:122
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/icy/widget/transportex-slider.php:17
+msgid "Tx - Slider Widget"
+msgstr "Tx - Widget de carrusel"
+
+#: inc/icy/widget/transportex-service.php:133
+msgid "Hide Featured Image"
+msgstr "Ocultar imagen destacada"
+
+#: inc/icy/widget/transportex-service.php:14
+msgid "Tx - Service Widget"
+msgstr "Tx - Widget de servicio"
+
+#: inc/icy/widget/transportex-recent-news.php:73
+msgid "Number of pages to show:"
+msgstr "Número de páginas a mostrar:"
+
+#: inc/icy/widget/transportex-recent-news.php:69
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/icy/widget/transportex-recent-news.php:64
+msgid "Latest News"
+msgstr "Últimas noticias"
+
+#: inc/icy/widget/transportex-recent-news.php:15
+msgid "Recent Blog Post"
+msgstr "Entrada reciente del blog"
+
+#: inc/icy/widget/transportex-recent-news.php:14
+msgid "Tx - Recent News Widget"
+msgstr "Tx - Widget de últimas noticias"
+
+#: inc/icy/widget/transportex-calltoaction.php:15
+msgid "Tx - Call To Action Widget"
+msgstr "Tx - Widget de llamada a la acción"
+
+#: inc/icy/customize/transportex_customize_header.php:205
+#: inc/icy/widget/transportex-callout.php:119
+#: inc/icy/widget/transportex-callout.php:147
+#: inc/icy/widget/transportex-calltoaction.php:119
+#: inc/icy/widget/transportex-calltoaction.php:147
+#: inc/icy/widget/transportex-service.php:141
+#: inc/icy/widget/transportex-slider.php:143
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: inc/icy/widget/transportex-callout.php:15
+msgid "Tx - Callout Widget"
+msgstr "Tx - Widget de llamada"
+
+#: inc/icy/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Hazte Pro"
+
+#: inc/icy/customize-pro/class-customize.php:64
+msgid "Transportex Pro"
+msgstr "Transportex Pro"
+
+#: inc/icy/customize/transportex_customize_header.php:186
+msgid "Get Quote"
+msgstr "Obtén un presupuesto"
+
+#: inc/icy/customize/transportex_customize_header.php:32
+msgid "Info two"
+msgstr "Info dos"
+
+#: inc/icy/customize/transportex_customize_header.php:19
+msgid "Info one"
+msgstr "Info uno"
+
+#: inc/icy/customize/transportex_customize_copyright.php:127
+#: inc/icy/customize/transportex_customize_general.php:44
+msgid "Overlay Color"
+msgstr "Color de superposición"
+
+#: header.php:195
+msgid "Get a Quote"
+msgstr "Piede un presupuesto"
+
+#: header.php:181
+msgid "Opening Time:"
+msgstr "Horario de apertura:"
+
+#: header.php:161 inc/icy/customize/transportex_customize_header.php:105
+msgid "Email Us:"
+msgstr "Escríbenos:"
+
+#: header.php:141 inc/icy/customize/transportex_customize_header.php:58
+msgid "Call Us:"
+msgstr "Llámanos:"
+
+#: single.php:46
+msgid "By"
+msgstr "Por"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:3
+msgid "Type to search"
+msgstr "Escribe para buscar"
+
+#: search.php:37
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: inc/icy/transportex-custom-navwalker.php:207
+msgid "Add a menu"
+msgstr "Añadir un menú"
+
+#: inc/icy/customize/transportex_customize_header.php:179
+msgid "Header Widget Four Setting"
+msgstr "Ajustes del widget de cabecera cuatro"
+
+#: inc/icy/customize/transportex_customize_header.php:132
+msgid "Header Widget Three Setting"
+msgstr "Ajustes del widget tres de cabecera"
+
+#: inc/icy/customize/transportex_customize_header.php:85
+msgid "Header Widget Two Setting"
+msgstr "Ajustes del widget dos de cabecera"
+
+#: inc/icy/customize/transportex_customize_header.php:38
+msgid "Header Widget One Setting"
+msgstr "Ajustes del widget uno de cabecera"
+
+#: inc/icy/customize/transportex_customize_header.php:7
+msgid "Header Settings"
+msgstr "Ajustes de la cabecera"
+
+#: inc/icy/breadcrumb.php:99
+msgid "Page"
+msgstr "Página"
+
+#: inc/icy/breadcrumb.php:94
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/icy/breadcrumb.php:91
+msgid "Articles posted by"
+msgstr "Artículo publicados por"
+
+#: inc/icy/breadcrumb.php:86
+msgid "Posts tagged"
+msgstr "Entradas con la etiqueta"
+
+#: inc/icy/breadcrumb.php:28
+msgid "Search results for"
+msgstr "Resultados de buscar"
+
+#: inc/icy/breadcrumb.php:25
+msgid "Archive by category"
+msgstr "Archivo por categoría"
+
+#: header.php:88
+msgid "Footer Social Links Menu"
+msgstr "Menú de enlaces sociales del pie de página"
+
+#: header.php:55
+msgid "Toggle Navigation"
+msgstr "Alternar navegación"
+
+#: header.php:26 header.php:29
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:218
+msgid "Read More"
+msgstr "Leer más"
+
+#: functions.php:177
+msgid "Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: functions.php:82
+msgid "Primary menu"
+msgstr "Menú principal"
+
+#: content.php:59
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content.php:38 single.php:33
+msgid "by"
+msgstr "por"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One Comments &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments"
+msgstr[0] "Un comentario en «%2$s»"
+msgstr[1] "%1$s comentarios"
+
+#: 404.php:31
+msgid "Go Back"
+msgstr "Volver atrás"
+
+#: 404.php:29
+msgid "Oops! Page not found"
+msgstr "¡Vaya! Página no encontrada"
+
+#: 404.php:28
+msgid "4"
+msgstr "4"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Themeansar"
+msgstr "Themeansar"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themeansar.com/free-themes/transportex/"
+msgstr "https://themeansar.com/free-themes/transportex/"
